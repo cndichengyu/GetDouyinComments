@@ -3,7 +3,9 @@
 ## 项目简介
 
 这是一个用于采集抖音视频评论的工具，可以批量获取多个抖音视频的评论和回复，并将数据整合到CSV文件中。
+## Star History
 
+[![Star History Chart](https://api.star-history.com/image?repos=cndichengyu/GetDouyinComments&type=date&legend=top-left)](https://www.star-history.com/?repos=cndichengyu%2FGetDouyinComments&type=date&legend=top-left)
 ## 功能特点
 
 - 支持批量采集多个抖音视频的评论
